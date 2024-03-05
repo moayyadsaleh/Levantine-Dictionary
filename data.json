@@ -778,7 +778,28 @@
         "Try these pants on": "قيس/جرب البنطلون لو سمحت",
         "It doesn’t fit me": "هاد البنطلون كبير شوي، ما بناسبني / هاد البنطلون زغير شوي، ما بناسبني",
         "Return policy": "سياسة الترجيع",
-        "Nice shoes": "كندرة"
+        "Nice shoes": "كندرة",
+        "A bank account": "حساب في البنك",
+        "I want to open a bank account": "بدي أفتح حساب في البنك",
+        "What is the account type?": "شو نوع الحساب؟",
+        "Checking account": "حساب جاري",
+        "Savings account": "حساب توفير",
+        "Deposit": "إيداع",
+        "I want to deposit $1000": "بدي أودع ألف دولار",
+        "Withdrawal": "سحب",
+        "I want to withdraw $100": "بدي أسحب 100 دولار",
+        "The ATM": "الصراف الآلي",
+        "Credit card": "البطاقة الإئتمانية",
+        "Debit card": "بطاقة الإتمان",
+        "Check book": "دفتر الشيكات",
+        "Form": "إستمارة",
+        "Loan": "قرض",
+        "My credit": "رصيدي في البنك",
+        "Debt": "دين",
+        "Interest": "نسبة الفائدة",
+        "You will get your credit card by mail": "رح تستلم البطاقة الإئتمانية بالبريد",
+        "Commission": "عمولة",
+        "SSN": "رقم الضمان الاجتماعي"
         
 
 
